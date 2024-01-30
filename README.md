@@ -1,1 +1,1 @@
-[zft.xyz/About]
+[zft.xyz/About](ZFT)
